@@ -20,7 +20,7 @@ A joint collaboration between:
 | [Columbia University](https://www.columbia.edu/ ) | [Digital Video and Multimedia Lab (DVMM)](www.ee.columbia.edu/dvmm)  |[Universitat Politecnica de Catalunya (UPC)](http://www.upc.edu/?set_language=en)   | [UPC ETSETB TelecomBCN](https://www.etsetb.upc.edu/en/)  | [UPC Image Processing Group](https://imatge.upc.edu/web/) | 
 
 
-[logo-columbia]: ./figures/logos/columbia.jpg "Columbia University"
+[logo-columbia]: ./figures/logos/columbia.png "Columbia University"
 [logo-dvmmlab]: ./figures/logos/dvmm.gif "Digital Video and Multimedia Lab"
 [logo-upc]: ./figures/logos/upc.jpg "Universitat Politècnica de Catalunya"
 [logo-etsetb]: ./figures/logos/etsetb.png "ETSETB TelecomBCN"
