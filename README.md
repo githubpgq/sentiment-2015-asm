@@ -6,10 +6,6 @@ Visual media are powerful means of expressing emotions and sentiments. The const
 
 ## Publication
 
-An [arXiv pre-print](http://arxiv.org/abs/1603.00845) is already available. 
-
-![Image of the paper](./figs/paper.jpg)
-
 Please cite with the following Bibtex code:
 
 ````
