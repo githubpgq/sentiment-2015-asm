@@ -13,6 +13,22 @@
 
 
 
+A joint collaboration between:
+
+| ![logo-columbia] | ![logo-dvmmlab] | ![logo-upc] | ![logo-etsetb] | ![logo-gpi] | 
+|:-:|:-:|:-:|:-:|:-:|
+| [Columbia University](https://www.columbia.edu/ ) | [Digital Video and Multimedia Lab (DVMM)](www.ee.columbia.edu/dvmm)  |[Universitat Politecnica de Catalunya (UPC)](http://www.upc.edu/?set_language=en)   | [UPC ETSETB TelecomBCN](https://www.etsetb.upc.edu/en/)  | [UPC Image Processing Group](https://imatge.upc.edu/web/) | 
+
+
+[logo-columbia]: ./figures/logos/columbia.jpg "Columbia University"
+[logo-dvmmlab]: ./figures/logos/dvmm.gif "Digital Video and Multimedia Lab"
+[logo-upc]: ./figures/logos/upc.jpg "Universitat Politècnica de Catalunya"
+[logo-etsetb]: ./figures/logos/etsetb.png "ETSETB TelecomBCN"
+[logo-gpi]: ./figures/logos/gpi.png "UPC Image Processing Group"
+
+
+
+
 ## Abstract
 Visual media are powerful means of expressing emotions and sentiments. The constant generation of new content in social networks highlights the need of automated visual sentiment analysis tools. While Convolutional Neural Networks (CNNs) have established a new state-of-the-art in several vision problems, their application to the task of sentiment analysis is mostly unexplored and there are few studies regarding how to design CNNs for this purpose. In this work, we study the suitability of fine-tuning a CNN for visual sentiment prediction as well as explore performance boosting techniques within this deep learning setting. Finally, we provide a deep-dive analysis into a benchmark, state-of-the-art network architecture to gain insight about how to design patterns for CNNs on the task of visual sentiment prediction.
 
