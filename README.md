@@ -1,5 +1,23 @@
 # Diving Deep into Sentiment: Understanding Fine-tuned CNNs for Visual Sentiment Prediction
 
+
+| ![Víctor Campos][VictorCampos-photo]  | ![Amaia Salvador][AmaiaSalvador-photo]  | ![Brendan Jou][BrendanJou-photo] | ![Xavier Giro-i-Nieto][XavierGiro-photo]  |
+|:-:|:-:|:-:|:-:|:-:|
+| Víctor Campos | [Amaia Salvador](AmaiaSalvador-web) |  [Brendan Jou](Brendan Jou-web) | [Xavier Giro-i-Nieto](XavierGiro-web)   |
+
+(*) Equal contribution
+
+[AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador
+[BrendanJou-web]: http://www.ee.columbia.edu/~bjou/
+[XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
+
+[VictorCampos-photo]: ./figures/authors/VictorCampos.jpg "Víctor Campos"
+[AmaiaSalvador-photo]: ./figures/authors/AmaiaSalvador.jpg "Amaia Salvador"
+[BrendanJou-photo]: ./figures/authors/BrendanJou.png "Brendan Jou"
+[XavierGiro-photo]: ./figures/authors/XavierGiro.jpg "Xavier Giro-i-Nieto"
+
+
+
 ## Abstract
 Visual media are powerful means of expressing emotions and sentiments. The constant generation of new content in social networks highlights the need of automated visual sentiment analysis tools. While Convolutional Neural Networks (CNNs) have established a new state-of-the-art in several vision problems, their application to the task of sentiment analysis is mostly unexplored and there are few studies regarding how to design CNNs for this purpose. In this work, we study the suitability of fine-tuning a CNN for visual sentiment prediction as well as explore performance boosting techniques within this deep learning setting. Finally, we provide a deep-dive analysis into a benchmark, state-of-the-art network architecture to gain insight about how to design patterns for CNNs on the task of visual sentiment prediction.
 
@@ -18,6 +36,8 @@ Please cite with the following Bibtex code:
   organization={ACM}
 }
 ```
+
+You may also want to refer to our publication with the more human-friendly APA style:
 
 *Campos, V., Salvador, A., Giro-i-Nieto, X., & Jou, B. (2015, October). Diving Deep into Sentiment: Understanding Fine-tuned CNNs for Visual Sentiment Prediction. In Proceedings of the 1st International Workshop on Affect & Sentiment in Multimedia (pp. 57-62). ACM.*
 
