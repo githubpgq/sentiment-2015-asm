@@ -3,13 +3,8 @@
 
 | ![Víctor Campos][VictorCampos-photo]  | ![Amaia Salvador][AmaiaSalvador-photo]  | ![Brendan Jou][BrendanJou-photo] | ![Xavier Giro-i-Nieto][XavierGiro-photo]  |
 |:-:|:-:|:-:|:-:|:-:|
-| Víctor Campos | [Amaia Salvador](https://imatge.upc.edu/web/people/amaia-salvador) |  [Brendan Jou](Brendan Jou-web) | [Xavier Giro-i-Nieto](XavierGiro-web)   |
+| Víctor Campos | [Amaia Salvador](https://imatge.upc.edu/web/people/amaia-salvador) |  [Brendan Jou](http://www.ee.columbia.edu/~bjou/) | [Xavier Giro-i-Nieto](https://imatge.upc.edu/web/people/xavier-giro)   |
 
-(*) Equal contribution
-
-[AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador
-[BrendanJou-web]: http://www.ee.columbia.edu/~bjou/
-[XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
 
 [VictorCampos-photo]: ./figures/authors/VictorCampos.jpg "Víctor Campos"
 [AmaiaSalvador-photo]: ./figures/authors/AmaiaSalvador.jpg "Amaia Salvador"
