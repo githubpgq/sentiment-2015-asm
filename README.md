@@ -56,7 +56,7 @@ You may also want to refer to our publication with the more human-friendly APA s
 
 ## Models
 
-The weights for the best CNN model can be downloaded from [here](#) (link will be added soon).
+The weights for the best CNN model can be downloaded from [here](https://imatge.upc.edu/web/sites/default/files/projects/affective/public_html/2015-asm/twitter_finetuned_test4_iter_180.caffemodel) (217 MB).
 
 The deep network was developed over [Caffe](http://caffe.berkeleyvision.org/) by [Berkeley Vision and Learning Center (BVLC)](http://bvlc.eecs.berkeley.edu/). You will need to follow [these instructions](http://caffe.berkeleyvision.org/installation.html) to install Caffe.
 
