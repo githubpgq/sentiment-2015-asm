@@ -1,30 +1,29 @@
 # Diving Deep into Sentiment: Understanding Fine-tuned CNNs for Visual Sentiment Prediction
 
 
-| ![Víctor Campos][VictorCampos-photo]  | ![Amaia Salvador][AmaiaSalvador-photo]  | ![Brendan Jou][BrendanJou-photo] | ![Xavier Giro-i-Nieto][XavierGiro-photo]  |
+| ![Víctor Campos][VictorCampos-photo]  | ![Amaia Salvador][AmaiaSalvador-photo]  |  ![Xavier Giro-i-Nieto][XavierGiro-photo]  | ![Brendan Jou][BrendanJou-photo] |
 |:-:|:-:|:-:|:-:|:-:|
-| Víctor Campos | [Amaia Salvador](https://imatge.upc.edu/web/people/amaia-salvador) |  [Brendan Jou](http://www.ee.columbia.edu/~bjou/) | [Xavier Giro-i-Nieto](https://imatge.upc.edu/web/people/xavier-giro)   |
+| Víctor Campos | [Amaia Salvador](https://imatge.upc.edu/web/people/amaia-salvador) |   [Xavier Giro-i-Nieto](https://imatge.upc.edu/web/people/xavier-giro)   | [Brendan Jou](http://www.ee.columbia.edu/~bjou/) |
 
 
 [VictorCampos-photo]: ./figures/authors/VictorCampos.jpg "Víctor Campos"
 [AmaiaSalvador-photo]: ./figures/authors/AmaiaSalvador.jpg "Amaia Salvador"
-[BrendanJou-photo]: ./figures/authors/BrendanJou.png "Brendan Jou"
 [XavierGiro-photo]: ./figures/authors/XavierGiro.jpg "Xavier Giro-i-Nieto"
+[BrendanJou-photo]: ./figures/authors/BrendanJou.png "Brendan Jou"
 
 
 
 A joint collaboration between:
 
-| ![logo-columbia] | ![logo-dvmmlab] | ![logo-upc] | ![logo-etsetb] | ![logo-gpi] | 
+|  ![logo-upc] | ![logo-etsetb] | ![logo-gpi] | ![logo-columbia] | ![logo-dvmmlab] |
 |:-:|:-:|:-:|:-:|:-:|
-| [Columbia University](https://www.columbia.edu/ ) | [Digital Video and Multimedia Lab (DVMM)](www.ee.columbia.edu/dvmm)  |[Universitat Politecnica de Catalunya (UPC)](http://www.upc.edu/?set_language=en)   | [UPC ETSETB TelecomBCN](https://www.etsetb.upc.edu/en/)  | [UPC Image Processing Group](https://imatge.upc.edu/web/) | 
+| [Universitat Politecnica de Catalunya (UPC)](http://www.upc.edu/?set_language=en)   | [UPC ETSETB TelecomBCN](https://www.etsetb.upc.edu/en/)  | [UPC Image Processing Group](https://imatge.upc.edu/web/) | [Columbia University](https://www.columbia.edu/ ) | [Digital Video and Multimedia Lab (DVMM)](www.ee.columbia.edu/dvmm)  |
 
-
-[logo-columbia]: ./figures/logos/columbia.png "Columbia University"
-[logo-dvmmlab]: ./figures/logos/dvmm.gif "Digital Video and Multimedia Lab"
 [logo-upc]: ./figures/logos/upc.jpg "Universitat Politècnica de Catalunya"
 [logo-etsetb]: ./figures/logos/etsetb.png "ETSETB TelecomBCN"
 [logo-gpi]: ./figures/logos/gpi.png "UPC Image Processing Group"
+[logo-columbia]: ./figures/logos/columbia.png "Columbia University"
+[logo-dvmmlab]: ./figures/logos/dvmm.gif "Digital Video and Multimedia Lab"
 
 
 ## Abstract
@@ -48,7 +47,10 @@ Please cite with the following Bibtex code:
 
 You may also want to refer to our publication with the more human-friendly APA style:
 
-*Campos, V., Salvador, A., Giro-i-Nieto, X., & Jou, B. (2015, October). Diving Deep into Sentiment: Understanding Fine-tuned CNNs for Visual Sentiment Prediction. In Proceedings of the 1st International Workshop on Affect & Sentiment in Multimedia (pp. 57-62). ACM.*
+*Campos, V., Salvador, A., Giro-i-Nieto, X., & Jou, B. (2015, October). [Diving Deep into Sentiment: Understanding Fine-tuned CNNs for Visual Sentiment Prediction](http://dx.doi.org/10.1145/2813524.2813530). In Proceedings of the 1st International Workshop on Affect & Sentiment in Multimedia (pp. 57-62). ACM.*
+
+A [preprint](http://arxiv.org/abs/1508.05056) of the paper is publicly available on arXiv.
+
 
 More details can be found in [our slides](http://www.slideshare.net/xavigiro/diving-deep-into-sentiment-understanding-finetuned-cnns-for-visual-sentiment-prediction) at ASM 2015, and the related [bachelor thesis report and video](https://imatge.upc.edu/web/publications/layer-wise-cnn-surgery-visual-sentiment-prediction) by Victor Campos at ETSETB TelecomBCN in July 2015.
 
