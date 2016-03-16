@@ -47,7 +47,7 @@ Please cite with the following Bibtex code:
 
 You may also want to refer to our publication with the more human-friendly APA style:
 
-*Campos, V., Salvador, A., Giro-i-Nieto, X., & Jou, B. (2015, October). [Diving Deep into Sentiment: Understanding Fine-tuned CNNs for Visual Sentiment Prediction](http://dx.doi.org/10.1145/2813524.2813530). In Proceedings of the 1st International Workshop on Affect & Sentiment in Multimedia (pp. 57-62). ACM.*
+*Campos, V., Salvador, A., Giro-i-Nieto, X., & Jou, B. (2015, October). [Diving Deep into Sentiment: Understanding Fine-tuned CNNs for Visual Sentiment Prediction](http://dl.acm.org/citation.cfm?id=2813530). In Proceedings of the 1st International Workshop on Affect & Sentiment in Multimedia (pp. 57-62). ACM.*
 
 A [preprint](http://arxiv.org/abs/1508.05056) of the paper is publicly available on arXiv.
 More details can be found in [our slides](http://www.slideshare.net/xavigiro/diving-deep-into-sentiment-understanding-finetuned-cnns-for-visual-sentiment-prediction) at ASM 2015, and the related [bachelor thesis report and video](https://imatge.upc.edu/web/publications/layer-wise-cnn-surgery-visual-sentiment-prediction) by Victor Campos at ETSETB TelecomBCN in July 2015.
