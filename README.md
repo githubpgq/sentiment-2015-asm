@@ -52,6 +52,10 @@ You may also want to refer to our publication with the more human-friendly APA s
 A [preprint](http://arxiv.org/abs/1508.05056) of the paper is publicly available on arXiv.
 More details can be found in [our slides](http://www.slideshare.net/xavigiro/diving-deep-into-sentiment-understanding-finetuned-cnns-for-visual-sentiment-prediction) at ASM 2015, and the related [bachelor thesis report and video](https://imatge.upc.edu/web/publications/layer-wise-cnn-surgery-visual-sentiment-prediction) by Victor Campos at ETSETB TelecomBCN in July 2015.
 
+## Slides
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/83vW3d0dYwJkSv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/xavigiro/diving-deep-into-sentiment-understanding-finetuned-cnns-for-visual-sentiment-prediction" title="Diving deep into sentiment: Understanding fine-tuned CNNs for visual sentiment prediction" target="_blank">Diving deep into sentiment: Understanding fine-tuned CNNs for visual sentiment prediction</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/xavigiro">Xavier Giro</a></strong> </div>
+
 ## Models
 
 The weights for the best CNN model can be downloaded from [here](https://imatge.upc.edu/web/sites/default/files/projects/affective/public_html/2015-asm/twitter_finetuned_test4_iter_180.caffemodel) (217 MB).
@@ -61,7 +65,7 @@ The deep network was developed over [Caffe](http://caffe.berkeleyvision.org/) by
 
 ## Acknowledgments
 
-We would like to especially thank Albert Gil Moreno and Josep Pujal from our technical support team at the Image Processing Group at the UPC.
+We would like to especially thank Albert Gil Moreno and Josep Pujal from our technical support team at the Image Processing Group at  UPC.
 
 | ![AlbertGil-photo]  | ![JosepPujal-photo]  |
 |:-:|:-:|
