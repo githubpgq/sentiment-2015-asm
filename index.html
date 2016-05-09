@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Diving Deep into Sentiment by imatge-upc</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Diving Deep into Sentiment</h1>
+      <h2 class="project-tagline">Understanding Fine-tuned CNNs for Visual Sentiment Prediction</h2>
+      <a href="https://github.com/imatge-upc/sentiment-2015-asm" class="btn">View on GitHub</a>
+      <a href="https://github.com/imatge-upc/sentiment-2015-asm/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/imatge-upc/sentiment-2015-asm/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
+
+    <section class="main-content">
+      <table>
+<thead>
+<tr>
+<th align="center"><img src="https://raw.githubusercontent.com/imatge-upc/sentiment-2015-asm/master/figures/authors/VictorCampos.jpg" alt="Víctor Campos" title="Víctor Campos"></th>
+<th align="center"><img src="https://raw.githubusercontent.com/imatge-upc/sentiment-2015-asm/master/figures/authors/AmaiaSalvador.jpg" alt="Amaia Salvador" title="Amaia Salvador"></th>
+<th align="center"><img src="https://raw.githubusercontent.com/imatge-upc/sentiment-2015-asm/master/figures/authors/XavierGiro.jpg" alt="Xavier Giro-i-Nieto" title="Xavier Giro-i-Nieto"></th>
+<th align="center"><img src="https://raw.githubusercontent.com/imatge-upc/sentiment-2015-asm/master/figures/authors/BrendanJou.png" alt="Brendan Jou" title="Brendan Jou"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Víctor Campos</td>
+<td align="center"><a href="https://imatge.upc.edu/web/people/amaia-salvador">Amaia Salvador</a></td>
+<td align="center"><a href="https://imatge.upc.edu/web/people/xavier-giro">Xavier Giro-i-Nieto</a></td>
+<td align="center"><a href="http://www.ee.columbia.edu/%7Ebjou/">Brendan Jou</a></td>
+</tr>
+</tbody>
+</table>
+
+<p>A joint collaboration between:</p>
+
+<table>
+<thead>
+<tr>
+<th align="center"><img src="https://raw.githubusercontent.com/imatge-upc/sentiment-2015-asm/master/figures/logos/upc.jpg" alt="logo-upc" title="Universitat Politècnica de Catalunya"></th>
+<th align="center"><img src="https://raw.githubusercontent.com/imatge-upc/sentiment-2015-asm/master/figures/logos/etsetb.png" alt="logo-etsetb" title="ETSETB TelecomBCN"></th>
+<th align="center"><img src="https://raw.githubusercontent.com/imatge-upc/sentiment-2015-asm/master/figures/logos/gpi.png" alt="logo-gpi" title="UPC Image Processing Group"></th>
+<th align="center"><img src="https://raw.githubusercontent.com/imatge-upc/sentiment-2015-asm/master/figures/logos/columbia.png" alt="logo-columbia" title="Columbia University"></th>
+<th align="center"><img src="https://raw.githubusercontent.com/imatge-upc/sentiment-2015-asm/master/figures/logos/dvmm.gif" alt="logo-dvmmlab" title="Digital Video and Multimedia Lab"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="http://www.upc.edu/?set_language=en">Universitat Politecnica de Catalunya (UPC)</a></td>
+<td align="center"><a href="https://www.etsetb.upc.edu/en/">UPC ETSETB TelecomBCN</a></td>
+<td align="center"><a href="https://imatge.upc.edu/web/">UPC Image Processing Group</a></td>
+<td align="center"><a href="https://www.columbia.edu/">Columbia University</a></td>
+<td align="center"><a href="www.ee.columbia.edu/dvmm">Digital Video and Multimedia Lab (DVMM)</a></td>
+</tr>
+</tbody>
+</table>
+
+<h2>
+<a id="abstract" class="anchor" href="#abstract" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Abstract</h2>
+
+<p>Visual media are powerful means of expressing emotions and sentiments. The constant generation of new content in social networks highlights the need of automated visual sentiment analysis tools. While Convolutional Neural Networks (CNNs) have established a new state-of-the-art in several vision problems, their application to the task of sentiment analysis is mostly unexplored and there are few studies regarding how to design CNNs for this purpose. In this work, we study the suitability of fine-tuning a CNN for visual sentiment prediction as well as explore performance boosting techniques within this deep learning setting. Finally, we provide a deep-dive analysis into a benchmark, state-of-the-art network architecture to gain insight about how to design patterns for CNNs on the task of visual sentiment prediction.</p>
+
+<h2>
+<a id="publication" class="anchor" href="#publication" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Publication</h2>
+
+<p>Please cite with the following Bibtex code:</p>
+
+<pre><code>@inproceedings{campos2015diving,
+  title={Diving Deep into Sentiment: Understanding Fine-tuned CNNs for Visual Sentiment Prediction},
+  author={Campos, Victor and Salvador, Amaia and Giro-i-Nieto, Xavier and Jou, Brendan},
+  booktitle={Proceedings of the 1st International Workshop on Affect \&amp; Sentiment in Multimedia},
+  pages={57--62},
+  year={2015},
+  organization={ACM}
+}
+</code></pre>
+
+<p>You may also want to refer to our publication with the more human-friendly APA style:</p>
+
+<p><em>Campos, V., Salvador, A., Giro-i-Nieto, X., &amp; Jou, B. (2015, October). <a href="http://dl.acm.org/citation.cfm?id=2813530">Diving Deep into Sentiment: Understanding Fine-tuned CNNs for Visual Sentiment Prediction</a>. In Proceedings of the 1st International Workshop on Affect &amp; Sentiment in Multimedia (pp. 57-62). ACM.</em></p>
+
+<p>A <a href="http://arxiv.org/abs/1508.05056">preprint</a> of the paper is publicly available on arXiv.
+More details can be found in <a href="http://www.slideshare.net/xavigiro/diving-deep-into-sentiment-understanding-finetuned-cnns-for-visual-sentiment-prediction">our slides</a> at ASM 2015, and the related <a href="https://imatge.upc.edu/web/publications/layer-wise-cnn-surgery-visual-sentiment-prediction">bachelor thesis report and video</a> by Victor Campos at ETSETB TelecomBCN in July 2015.</p>
+
+<h2>
+<a id="slides" class="anchor" href="#slides" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Slides</h2>
+
+<p>  </p><div> <strong> <a href="//www.slideshare.net/xavigiro/diving-deep-into-sentiment-understanding-finetuned-cnns-for-visual-sentiment-prediction" title="Diving deep into sentiment: Understanding fine-tuned CNNs for visual sentiment prediction">Diving deep into sentiment: Understanding fine-tuned CNNs for visual sentiment prediction</a> </strong> from <strong><a href="//www.slideshare.net/xavigiro">Xavier Giro</a></strong> </div>
+
+<h2>
+<a id="models" class="anchor" href="#models" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Models</h2>
+
+<p>The weights for the best CNN model can be downloaded from <a href="https://imatge.upc.edu/web/sites/default/files/projects/affective/public_html/2015-asm/twitter_finetuned_test4_iter_180.caffemodel">here</a> (217 MB).</p>
+
+<p>The deep network was developed over <a href="http://caffe.berkeleyvision.org/">Caffe</a> by <a href="http://bvlc.eecs.berkeley.edu/">Berkeley Vision and Learning Center (BVLC)</a>. You will need to follow <a href="http://caffe.berkeleyvision.org/installation.html">these instructions</a> to install Caffe.</p>
+
+<h2>
+<a id="acknowledgments" class="anchor" href="#acknowledgments" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Acknowledgments</h2>
+
+<p>We would like to especially thank Albert Gil Moreno and Josep Pujal from our technical support team at the Image Processing Group at  UPC.</p>
+
+<table>
+<thead>
+<tr>
+<th align="center"><img src="https://raw.githubusercontent.com/imatge-upc/sentiment-2015-asm/master/figures/authors/AlbertGil.jpg" alt="AlbertGil-photo" title="Albert Gil"></th>
+<th align="center"><img src="https://raw.githubusercontent.com/imatge-upc/sentiment-2015-asm/master/figures/authors/JosepPujal.jpg" alt="JosepPujal-photo" title="Josep Pujal"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://imatge.upc.edu/web/people/albert-gil-moreno">Albert Gil</a></td>
+<td align="center"><a href="https://imatge.upc.edu/web/people/josep-pujal">Josep Pujal</a></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">We gratefully acknowledge the support of <a href="http://www.nvidia.com/content/global/global.php">NVIDIA Corporation</a> with the donation of the GeForce GTX <a href="http://www.nvidia.com/gtx-700-graphics-cards/gtx-titan-z/">Titan Z</a> and <a href="http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-titan-x">Titan X</a> used in this work.</td>
+<td align="center"><img src="https://raw.githubusercontent.com/imatge-upc/sentiment-2015-asm/master/figures/logos/nvidia.jpg" alt="logo-nvidia" title="Logo of NVidia"></td>
+</tr>
+<tr>
+<td align="left">The Image Processing Group at the UPC is a <a href="https://imatge.upc.edu/web/projects/sgr14-image-and-video-processing-group">SGR14 Consolidated Research Group</a> recognized and sponsored by the Catalan Government (Generalitat de Catalunya) through its <a href="http://agaur.gencat.cat/en/inici/index.html">AGAUR</a> office.</td>
+<td align="center"><img src="https://raw.githubusercontent.com/imatge-upc/sentiment-2015-asm/master/figures/logos/generalitat.jpg" alt="logo-catalonia" title="Logo of Catalan government"></td>
+</tr>
+<tr>
+<td align="left">This work has been developed in the framework of the project <a href="https://imatge.upc.edu/web/projects/biggraph-heterogeneous-information-and-graph-signal-processing-big-data-era-application">BigGraph TEC2013-43935-R</a>, funded by the Spanish Ministerio de Economía y Competitividad and the European Regional Development Fund (ERDF).</td>
+<td align="center"><img src="https://raw.githubusercontent.com/imatge-upc/sentiment-2015-asm/master/figures/logos/MEyC.png" alt="logo-spain" title="Logo of Spanish government"></td>
+</tr>
+</tbody>
+</table>
+
+<h2>
+<a id="contact" class="anchor" href="#contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contact</h2>
+
+<p>If you have any general doubt about our work or code which may be of interest for other researchers, please use the <a href="https://github.com/imatge-upc/sentiment-2015-asm/issues">public issues section</a> on this github repo. Alternatively, drop us an e-mail at <a href="mailto:xavier.giro@upc.edu">xavier.giro@upc.edu</a>.</p>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/imatge-upc/sentiment-2015-asm">Diving Deep into Sentiment</a> is maintained by <a href="https://github.com/imatge-upc">imatge-upc</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
+  </body>
+</html>
