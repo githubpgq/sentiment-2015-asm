@@ -6,10 +6,10 @@
 | Víctor Campos | [Amaia Salvador](https://imatge.upc.edu/web/people/amaia-salvador) |   [Xavier Giro-i-Nieto](https://imatge.upc.edu/web/people/xavier-giro)   | [Brendan Jou](http://www.ee.columbia.edu/~bjou/) |
 
 
-[VictorCampos-photo]: ./figures/authors/VictorCampos.jpg "Víctor Campos"
-[AmaiaSalvador-photo]: ./figures/authors/AmaiaSalvador.jpg "Amaia Salvador"
-[XavierGiro-photo]: ./figures/authors/XavierGiro.jpg "Xavier Giro-i-Nieto"
-[BrendanJou-photo]: ./figures/authors/BrendanJou.png "Brendan Jou"
+[VictorCampos-photo]: https://github.com/imatge-upc/sentiment-2015-asm/blob/master/figures/authors/VictorCampos.jpg "Víctor Campos"
+[AmaiaSalvador-photo]: https://github.com/imatge-upc/sentiment-2015-asm/blob/master/figures/authors/AmaiaSalvador.jpg "Amaia Salvador"
+[XavierGiro-photo]: https://github.com/imatge-upc/sentiment-2015-asm/blob/master/figures/authors/XavierGiro.jpg "Xavier Giro-i-Nieto"
+[BrendanJou-photo]: https://github.com/imatge-upc/sentiment-2015-asm/blob/master/figures/authors/BrendanJou.png "Brendan Jou"
 
 
 
@@ -19,11 +19,11 @@ A joint collaboration between:
 |:-:|:-:|:-:|:-:|:-:|
 | [Universitat Politecnica de Catalunya (UPC)](http://www.upc.edu/?set_language=en)   | [UPC ETSETB TelecomBCN](https://www.etsetb.upc.edu/en/)  | [UPC Image Processing Group](https://imatge.upc.edu/web/) | [Columbia University](https://www.columbia.edu/ ) | [Digital Video and Multimedia Lab (DVMM)](www.ee.columbia.edu/dvmm)  |
 
-[logo-upc]: ./figures/logos/upc.jpg "Universitat Politècnica de Catalunya"
-[logo-etsetb]: ./figures/logos/etsetb.png "ETSETB TelecomBCN"
-[logo-gpi]: ./figures/logos/gpi.png "UPC Image Processing Group"
-[logo-columbia]: ./figures/logos/columbia.png "Columbia University"
-[logo-dvmmlab]: ./figures/logos/dvmm.gif "Digital Video and Multimedia Lab"
+[logo-upc]: https://github.com/imatge-upc/sentiment-2015-asm/blob/master/figures/logos/upc.jpg "Universitat Politècnica de Catalunya"
+[logo-etsetb]: https://github.com/imatge-upc/sentiment-2015-asm/blob/master/figures/logos/etsetb.png "ETSETB TelecomBCN"
+[logo-gpi]: https://github.com/imatge-upc/sentiment-2015-asm/blob/master/figures/logos/gpi.png "UPC Image Processing Group"
+[logo-columbia]: https://github.com/imatge-upc/sentiment-2015-asm/blob/master/figures/logos/columbia.png "Columbia University"
+[logo-dvmmlab]: https://github.com/imatge-upc/sentiment-2015-asm/blob/master/figures/logos/dvmm.gif "Digital Video and Multimedia Lab"
 
 
 ## Abstract
@@ -71,8 +71,8 @@ We would like to especially thank Albert Gil Moreno and Josep Pujal from our tec
 |:-:|:-:|
 | [Albert Gil](https://imatge.upc.edu/web/people/albert-gil-moreno)  |  [Josep Pujal](https://imatge.upc.edu/web/people/josep-pujal) |
 
-[AlbertGil-photo]: ./figures/authors/AlbertGil.jpg "Albert Gil"
-[JosepPujal-photo]: ./figures/authors/JosepPujal.jpg "Josep Pujal"
+[AlbertGil-photo]: https://github.com/imatge-upc/sentiment-2015-asm/blob/master/figures/authors/AlbertGil.jpg "Albert Gil"
+[JosepPujal-photo]: https://github.com/imatge-upc/sentiment-2015-asm/blob/master/figures/authors/JosepPujal.jpg "Josep Pujal"
 
 |   |   |
 |:--|:-:|
@@ -80,9 +80,9 @@ We would like to especially thank Albert Gil Moreno and Josep Pujal from our tec
 |  The Image Processing Group at the UPC is a [SGR14 Consolidated Research Group](https://imatge.upc.edu/web/projects/sgr14-image-and-video-processing-group) recognized and sponsored by the Catalan Government (Generalitat de Catalunya) through its [AGAUR](http://agaur.gencat.cat/en/inici/index.html) office. |  ![logo-catalonia] |
 |  This work has been developed in the framework of the project [BigGraph TEC2013-43935-R](https://imatge.upc.edu/web/projects/biggraph-heterogeneous-information-and-graph-signal-processing-big-data-era-application), funded by the Spanish Ministerio de Economía y Competitividad and the European Regional Development Fund (ERDF).  | ![logo-spain] | 
 
-[logo-nvidia]: ./figures/logos/nvidia.jpg "Logo of NVidia"
-[logo-catalonia]: ./figures/logos/generalitat.jpg "Logo of Catalan government"
-[logo-spain]: ./figures/logos/MEyC.png "Logo of Spanish government"
+[logo-nvidia]: https://github.com/imatge-upc/sentiment-2015-asm/blob/master/figures/logos/nvidia.jpg "Logo of NVidia"
+[logo-catalonia]: https://github.com/imatge-upc/sentiment-2015-asm/blob/master/figures/logos/generalitat.jpg "Logo of Catalan government"
+[logo-spain]: https://github.com/imatge-upc/sentiment-2015-asm/blob/master/figures/logos/MEyC.png "Logo of Spanish government"
 
 
 
