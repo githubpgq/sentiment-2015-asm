@@ -34,7 +34,7 @@ Visual media are powerful means of expressing emotions and sentiments. The const
 
 Please cite with the following Bibtex code:
 
-````
+```
 @inproceedings{campos2015diving,
   title={Diving Deep into Sentiment: Understanding Fine-tuned CNNs for Visual Sentiment Prediction},
   author={Campos, Victor and Salvador, Amaia and Giro-i-Nieto, Xavier and Jou, Brendan},
