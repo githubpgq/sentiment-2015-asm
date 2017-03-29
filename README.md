@@ -2,7 +2,7 @@
 
 
 | ![Víctor Campos][VictorCampos-photo]  | ![Amaia Salvador][AmaiaSalvador-photo]  |  ![Xavier Giro-i-Nieto][XavierGiro-photo]  | ![Brendan Jou][BrendanJou-photo] |
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|
 | Víctor Campos | [Amaia Salvador](https://imatge.upc.edu/web/people/amaia-salvador) |   [Xavier Giro-i-Nieto](https://imatge.upc.edu/web/people/xavier-giro)   | [Brendan Jou](http://www.ee.columbia.edu/~bjou/) |
 
 
