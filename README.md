@@ -50,7 +50,7 @@ You may also want to refer to our publication with the more human-friendly APA s
 *Campos, V., Salvador, A., Giro-i-Nieto, X., & Jou, B. (2015, October). [Diving Deep into Sentiment: Understanding Fine-tuned CNNs for Visual Sentiment Prediction](http://dl.acm.org/citation.cfm?id=2813530). In Proceedings of the 1st International Workshop on Affect & Sentiment in Multimedia (pp. 57-62). ACM.*
 
 A [preprint](http://arxiv.org/abs/1508.05056) of the paper is publicly available on arXiv.
-More details can be found in [our slides](http://www.slideshare.net/xavigiro/diving-deep-into-sentiment-understanding-finetuned-cnns-for-visual-sentiment-prediction) at ASM 2015, and the related [bachelor thesis report and video](https://imatge.upc.edu/web/publications/layer-wise-cnn-surgery-visual-sentiment-prediction) by Victor Campos at ETSETB TelecomBCN in July 2015.
+More details can be found in the related [bachelor thesis report and video](https://imatge.upc.edu/web/publications/layer-wise-cnn-surgery-visual-sentiment-prediction) by Victor Campos at ETSETB TelecomBCN in July 2015.
 
 ## Slides
 
@@ -65,6 +65,9 @@ The Twitter dataset used in our experiments can be downloaded from [here](http:/
 The weights for the best CNN model can be downloaded from [here](https://imatge.upc.edu/web/sites/default/files/projects/affective/public_html/2015-asm/twitter_finetuned_test4_iter_180.caffemodel) (217 MB).
 
 The deep network was developed over [Caffe](http://caffe.berkeleyvision.org/) by [Berkeley Vision and Learning Center (BVLC)](http://bvlc.eecs.berkeley.edu/). You will need to follow [these instructions](http://caffe.berkeleyvision.org/installation.html) to install Caffe.
+
+## Extended work
+This paper was later extended in [this journal paper](https://github.com/imatge-upc/sentiment-2017-imavis) in Image and Vision Computing (IMAVIS) published in 2017.
 
 
 ## Acknowledgments
